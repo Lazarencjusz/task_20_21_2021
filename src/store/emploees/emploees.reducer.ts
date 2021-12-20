@@ -1,4 +1,3 @@
-/* eslint-disable no-param-reassign */
 import { createReducer } from "@reduxjs/toolkit";
 import { Emploee } from "../../model/Emploee";
 import { addEmploee, removeEmploee } from "./emploees.actions";
