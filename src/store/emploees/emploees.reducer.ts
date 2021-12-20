@@ -8,7 +8,7 @@ export interface InitialState {
 }
 
 export const initialState: InitialState = {
-  persons: [{ id: 1, firstName: "Marian", lastName: "Paździoch" }],
+  persons: [{ id: 1, firstName: "Jan", lastName: "Kowalski" }],
 };
 
 export const reducer = createReducer(initialState, (builder) => {
