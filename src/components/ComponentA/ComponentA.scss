@@ -1,0 +1,12 @@
+.component-a {
+  background-color: red;
+  position: fixed;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: calc(100% - 300px);
+  margin: auto;
+  left: 0;
+  right: 0;
+}
