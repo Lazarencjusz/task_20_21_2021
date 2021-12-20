@@ -1,0 +1,8 @@
+.component-f {
+  width: calc(100% - 200px);
+  height: 300px;
+  display: flex;
+  flex-direction: row;
+
+  justify-content: space-between;
+}

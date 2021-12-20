@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+}
+
+.content-position {
+  width: calc(100% - 300px);
+  margin: auto;
+  inset: 0;
+  position: relative;
+}

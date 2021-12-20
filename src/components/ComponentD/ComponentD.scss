@@ -1,0 +1,13 @@
+.component-d {
+  background-color: green;
+  position: fixed;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  bottom: 0;
+  width: calc(100% - 300px);
+  margin: auto;
+  left: 0;
+  right: 0;
+}

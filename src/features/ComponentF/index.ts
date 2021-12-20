@@ -1,0 +1,1 @@
+export { ComponentF } from "./ComponentF";

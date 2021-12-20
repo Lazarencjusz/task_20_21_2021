@@ -1,0 +1,12 @@
+.component-e {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  &:hover {
+    cursor: pointer;
+  }
+}
